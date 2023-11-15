@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header {
+    width: 100%;
+    padding: 20px;
+    background-color: #0d6fc0c1;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+section {
+    width: 48%;
+    background-color: #ccc;
+    padding: 20px;
+    margin: 5px;
+}
+
+section img {
+    width: 90%;
+    height: 250px;
+    object-fit: cover;
+}
