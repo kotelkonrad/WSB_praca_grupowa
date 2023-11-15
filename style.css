@@ -41,6 +41,61 @@ section {
     border-radius: 10px;
     font-family: 'VT323', monospace;
 }
+.kuchnia_meksykanska {
+    background-color: #a34343;
+    border: 2px solid rgb(17, 180, 17);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_polska {
+    background-color: #a34343;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_szwedzka {
+    background-color: #2246aa;
+    border: 2px solid rgb(200, 214, 0);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_francuska {
+    background-color: #0c00b6;
+    border: 2px solid rgb(255, 0, 0);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_kociewska {
+    background-color: #c0ad01;
+    border: 2px solid rgb(0, 174, 255);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.Kuchnia_norweska {
+    background-color: #ff0000;
+    border: 2px solid rgb(0, 19, 190);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_japonska {
+    background-color: #d8d7ce;
+    border: 2px solid rgb(255, 8, 0);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_tajska {
+    background-color: #231d77;
+    border: 2px solid rgb(139, 53, 41);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+.kuchnia_indonezyjska {
+    background-color: rgb(192, 23, 1);
+    border: 2px solid rgb(185, 187, 189);
+    border-radius: 10px;
+    font-family: 'VT323', monospace;
+}
+
 section img {
     width: 90%;
     height: 250px;
