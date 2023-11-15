@@ -32,12 +32,9 @@ section {
     margin: 5px;
     
 }
-.kuchnia_polska {
-    width: 48%;
-    background-color: #a34343;
-    padding: 20px;
-    margin: 5px;
-    border: 2px solid rgb(255, 255, 255);
+.kuchnia_wloska {
+    background-color: #46a343;
+    border: 2px solid rgb(180, 55, 17);
     border-radius: 10px;
     font-family: 'VT323', monospace;
 }
