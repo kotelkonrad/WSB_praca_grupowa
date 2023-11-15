@@ -37,7 +37,7 @@ section {
     background-color: #a34343;
     padding: 20px;
     margin: 5px;
-    border: 2px solid red;
+    border: 2px solid rgb(255, 255, 255);
     border-radius: 10px;
     font-family: 'VT323', monospace;
 }
